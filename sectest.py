@@ -1,6 +1,6 @@
 import os
 import sqlite3
-from Flask.flask import Flask, request, session, g, redirect, url_for, abort, \
+from flask.flask import Flask, request, session, g, redirect, url_for, abort, \
       render_template, flash
 
 
